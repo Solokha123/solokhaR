@@ -1,0 +1,8 @@
+body{background-color:#22d66d;}
+ul li { display: inline; }
+/* отличный сайт */
+#title2{
+    border: 2px solid red;
+    width: 500px;
+    height:100vh;
+}
